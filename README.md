@@ -118,4 +118,4 @@ A drag-and-drop website builder built from scratch as a self-contained HTML/CSS/
   <a href="https://github.com/Vishwashmaurya">GitHub</a>
 </p>
 
-<p align="center"><i>Building, breaking, and rebuilding — one app at a time.</i></p>
+<p align="center"><i>Native Android Developer</i></p>
